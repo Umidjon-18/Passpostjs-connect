@@ -1,0 +1,20 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.home-key {
+  width: 20%;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
